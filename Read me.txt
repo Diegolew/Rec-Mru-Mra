@@ -17,3 +17,4 @@ Se incluye un archivo README.md que explica el propósito de la aplicación, có
 ## Historias de Usuario
 
 Se han redactado al menos dos historias de usuario que describen los requerimientos y expectativas del usuario final respecto a la funcionalidad de la calculadora.
+

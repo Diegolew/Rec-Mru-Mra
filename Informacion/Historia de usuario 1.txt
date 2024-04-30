@@ -10,3 +10,4 @@ Para problemas de movimiento rectilíneo uniformemente acelerado (MRUA), la herr
 -La interfaz de usuario debe ser intuitiva y permitir al usuario ingresar los valores relevantes para cada cálculo de forma ordenada y comprensible.
 -Después de cada cálculo, la herramienta debe mostrar el resultado de manera clara y concisa, junto con una explicación breve del proceso de cálculo utilizado.
 -La herramienta debe estar diseñada de manera que sea fácil de usar y accesible para estudiantes de física con diversos niveles de experiencia en matemáticas.
+
