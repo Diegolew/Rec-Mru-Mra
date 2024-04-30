@@ -1,0 +1,17 @@
+Historia de Usuario 2:
+
+Como profesor de física en una escuela secundaria, me encuentro constantemente buscando formas de mejorar la comprensión de mis estudiantes sobre los conceptos de movimiento rectilíneo uniforme y uniformemente acelerado. A menudo observo que muchos de mis alumnos luchan por recordar las fórmulas adecuadas y cometen errores simples al realizar cálculos básicos. Me gustaría contar con una herramienta interactiva que pueda utilizar en clase para ayudar a mis estudiantes a practicar y verificar sus cálculos de manera efectiva, proporcionándoles así una mayor confianza en sus habilidades y un entendimiento más profundo de estos principios físicos fundamentales.
+
+Requerimientos:
+
+-La herramienta debe permitir a los estudiantes seleccionar fácilmente el tipo de cálculo que desean realizar, ya sea para problemas de movimiento rectilíneo uniforme (MRU) o uniformemente acelerado (MRUA).
+-Debe haber una opción para ingresar los valores pertinentes para cada tipo de cálculo, incluyendo la velocidad inicial, la aceleración, el tiempo, etc.
+-Después de cada cálculo, la herramienta debe proporcionar retroalimentación inmediata sobre la precisión de la respuesta y, en caso de errores, sugerir los pasos correctos para llegar al resultado adecuado.
+-La interfaz de usuario debe ser visualmente atractiva y fácil de entender, con instrucciones claras para guiar a los estudiantes a través del proceso de resolución de problemas.
+-La herramienta debe estar disponible tanto en formato de aplicación de escritorio como en línea, para que los estudiantes puedan acceder a ella desde cualquier lugar y en cualquier momento, ya sea en el aula o en casa.
+-Debe haber una función de seguimiento del progreso para que tanto los estudiantes como el profesor puedan monitorear el rendimiento y identificar áreas de mejora en el dominio de los conceptos de movimiento rectilíneo.
+
+
+
+
+

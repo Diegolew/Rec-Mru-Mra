@@ -1,0 +1,12 @@
+Historia de Usuario 1:
+
+Como estudiante de física en mi primer semestre, me enfrento a la necesidad de comprender y aplicar los conceptos de movimiento rectilíneo uniforme y uniformemente acelerado en mis tareas y exámenes. Sin embargo, debido a la complejidad de las fórmulas y la dificultad para recordarlas en todo momento, a veces me siento abrumado al intentar resolver los problemas por mi cuenta. Desearía contar con una herramienta de cálculo que no solo me permita realizar fácilmente los cálculos necesarios, sino que también me brinde una forma de verificar mis respuestas y comprender mejor los principios físicos subyacentes.
+
+Requerimientos:
+
+-La herramienta debe ofrecer al menos tres funciones para resolver problemas de movimiento rectilíneo uniforme (MRU), incluyendo el cálculo de distancia, velocidad y tiempo.
+Para problemas de movimiento rectilíneo uniformemente acelerado (MRUA), la herramienta debe proporcionar al menos tres funciones, tales como el cálculo de posición final, velocidad final y tiempo.
+-Debe haber una opción clara para finalizar la aplicación cuando haya terminado de realizar los cálculos.
+-La interfaz de usuario debe ser intuitiva y permitir al usuario ingresar los valores relevantes para cada cálculo de forma ordenada y comprensible.
+-Después de cada cálculo, la herramienta debe mostrar el resultado de manera clara y concisa, junto con una explicación breve del proceso de cálculo utilizado.
+-La herramienta debe estar diseñada de manera que sea fácil de usar y accesible para estudiantes de física con diversos niveles de experiencia en matemáticas.
